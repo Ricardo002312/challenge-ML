@@ -7,11 +7,11 @@ preferimos que lo hagas a tu tiempo, aunque en no más de una semana desde que l
 recibiste, pero que la solución venga con tu propio sello.
 
 Puntos a evaluar
-  ● Interpretación de la consigna
-  ● Orden y comentarios del código
-  ● Queries simples y efectivas
-  ● Calidad del entregable
-  ● Si pensás en otro punto que pueda sumar, sentite libre de agregarlo y comentarnos
+● Interpretación de la consigna
+● Orden y comentarios del código
+● Queries simples y efectivas
+● Calidad del entregable
+● Si pensás en otro punto que pueda sumar, sentite libre de agregarlo y comentarnos
     cuál es y por qué lo sumaste.
 
 Primera Parte - SQL
